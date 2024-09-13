@@ -6,10 +6,17 @@
 
       <div class="event-details">
         <h2>Detail Acara:</h2>
-        <p><strong>Tanggal:</strong> 4 Agustus 2024</p>
-        <p><strong>Waktu:</strong> Pukul 19.00 WIB</p>
+        <p><strong>Waktu:</strong> Malam ini/peuting ayeuna</p>
         <p><strong>Tempat:</strong> Jl. Gobang Rumah Dimas</p>
       </div>
+
+      <div class="warning">
+        <h2>sekedar mengingakan</h2>
+        <p>sebelum berangkat diharapkan BAB/MODOL di rumah terlebih dahulu.</p>
+        <h3>karna tidak tersedia wc</h3>
+
+      </div>
+      
 
 
     </div>
@@ -105,5 +112,11 @@ p {
   .event-details h2 {
     font-size: 20px;
   }
+}
+
+.warning{
+  color: #e70303;
+  border: solid black 1px;
+  border-radius: 20px;
 }
 </style>
